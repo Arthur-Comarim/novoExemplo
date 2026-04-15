@@ -1,3 +1,7 @@
 sdjfishdfisfsh
 
+<<<<<<< HEAD
 Linha alterada pelo PC
+=======
+Linha editada pelo github
+>>>>>>> dde05a7b2938421de23ae07a1ad9acb9f70150f7
